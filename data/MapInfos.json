@@ -6,6 +6,5 @@ null,
 {"id":4,"expanded":false,"name":"School Classroom","order":6,"parentId":8,"scrollX":415.55555555555554,"scrollY":497.3333333333333},
 null,
 {"id":6,"expanded":true,"name":"City","order":4,"parentId":2,"scrollX":1999.5555555555557,"scrollY":1280.4444444444443},
-null,
-{"id":8,"expanded":false,"name":"School","order":5,"parentId":2,"scrollX":1567.5555555555557,"scrollY":1280.4444444444443}
+{"id":7,"expanded":false,"name":"School","order":5,"parentId":2,"scrollX":1567.5555555555557,"scrollY":1280.4444444444443}
 ]
